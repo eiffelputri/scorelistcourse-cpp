@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1655296999 source:c:\users\asus\downloads\projectt\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
+1655253144 source:f:\projectt\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
+1656123634 source:d:\university\semester 2\algoritma dan pemrograman\tugas alpro 2\projectt\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+	"siswa.h"
+
+1656118122 d:\university\semester 2\algoritma dan pemrograman\tugas alpro 2\projectt\bersama.h
+
+1656119890 d:\university\semester 2\algoritma dan pemrograman\tugas alpro 2\projectt\siswa.h
+
+1656123634 source:d:\university\semester 2\algoritma dan pemrograman\tugas alpro 2\tugas 26\project baru (yang dikembangkan)\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+	"siswa.h"
+
+1656119890 d:\university\semester 2\algoritma dan pemrograman\tugas alpro 2\tugas 26\project baru (yang dikembangkan)\siswa.h
+
